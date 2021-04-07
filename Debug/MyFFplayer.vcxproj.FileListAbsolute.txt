@@ -1,0 +1,2 @@
+D:\StudyFile\ffmpeg\MyFFplayer\Debug\MyFFplayer.exe
+D:\StudyFile\ffmpeg\MyFFplayer\Debug\MyFFplayer.pdb
